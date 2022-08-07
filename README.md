@@ -273,3 +273,4 @@ These responses create a sense of separation by allowing the respondent to relin
 #### Sources:
 * *The Relationship Cure*, Gottman Institute
 * *The Science of Trust*, Gottman Institute
+* *Anger: The Misunderstood Emotion*, Carol Tavris
